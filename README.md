@@ -50,3 +50,7 @@ For questions or support, please contact:
 - **Author:** Ahmed Amine Laaraf
 - **Email:** aminelaaraf@gmail.com
 - **GitHub:** [My GitHub Profile](https://github.com/RoxDevvv)
+
+## 💸 Donation
+If you feel generous and would like to support the development, consider buying me a coffee!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/roxdevvv)
