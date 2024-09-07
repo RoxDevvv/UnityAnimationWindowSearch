@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:Label text="Search Clip" name="Title" />
+    <ui:IMGUIContainer name="searchContainer" />
+    <ui:ListView name="clipsListView" show-border="false" />
+</ui:UXML>
